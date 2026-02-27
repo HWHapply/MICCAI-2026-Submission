@@ -1,4 +1,4 @@
-# Disentangled-Interpretable-Self-supervised-Representation-Learning-for-Medical-Images
+# Augmentation-Disentangled Task-Adaptive Contrastive Learning for Interpretable Medical Image Representations
 
 This repository contains the official implementation of our MICCAI 2026 submission.
 
